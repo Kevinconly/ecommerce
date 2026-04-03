@@ -1,0 +1,21 @@
+{
+  "name": "hoooks",
+  "version": "10.96.67",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "json-web-token": "^3.2.0",
+    "multer": "^2.1.1",
+    "mysql2": "^3.20.0"
+  }
+}
